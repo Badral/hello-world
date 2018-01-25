@@ -1,2 +1,4 @@
 # hello-world
-First Repository
+Hi
+
+I am Badral. Excited to learn about GitHub. 
